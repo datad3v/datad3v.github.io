@@ -1,5 +1,5 @@
 # Site settings
-title: Data D3v
+title: Mauricio Guzman
 email: datad3v@gmail.com
 url: https://datad3v.github.io
 description: "This is my personal portfolio site to showcase data engineering, data science, AI, Python and other projects for my website."
@@ -41,7 +41,7 @@ footer:
 social:
   - title: twitter
     url: https://twitter.com/DataDeviant
-  - title: facebook
+  - title: linkedin
     url:
   - title: stack-overflow
     url: 
