@@ -42,21 +42,17 @@ social:
   - title: twitter
     url: https://twitter.com/DataDeviant
   - title: linkedin
-    url:
-  - title: stack-overflow
-    url: 
-  - title: bitbucket
-    url: 
+    url: https://www.linkedin.com/in/mauricio-guzman-profile/
   - title: github
     url: http://github.com/datad3v
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Earth
+  - line: the Solar System
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+#credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
